@@ -1,0 +1,10 @@
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/Xamarin-Demo/AndroidControl/AndroidControl/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/Xamarin-Demo/AndroidControl/AndroidControl/bin/Debug/AndroidControl.dll.mdb
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/Xamarin-Demo/AndroidControl/AndroidControl/bin/Debug/AndroidControl.dll
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/Xamarin-Demo/AndroidControl/AndroidControl/obj/Debug/AndroidControl.dll
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/Xamarin-Demo/AndroidControl/AndroidControl/obj/Debug/AndroidControl.dll.mdb
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/AndroidControl/AndroidControl/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/AndroidControl/AndroidControl/bin/Debug/AndroidControl.dll.mdb
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/AndroidControl/AndroidControl/bin/Debug/AndroidControl.dll
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/AndroidControl/AndroidControl/obj/Debug/AndroidControl.dll
+/Volumes/DataA/Phuc/Learning/Xamarin/XamarinDemo/AndroidControl/AndroidControl/obj/Debug/AndroidControl.dll.mdb

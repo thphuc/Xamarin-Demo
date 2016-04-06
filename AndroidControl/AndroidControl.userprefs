@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Droid/AndroidControl.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.146a9c8e" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/EditTextDemoActivity.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="28" Column="30" />
+      <File FileName="Droid/EditTextDemoActivity.cs" Line="14" Column="31" />
+      <File FileName="AndroidControl/MyClass.cs" Line="13" Column="1" />
+      <File FileName="Droid/AutoCompleteTextViewActivity.cs" Line="22" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AndroidControl.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

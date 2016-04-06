@@ -1,0 +1,4 @@
+*.dll
+AndroidControl/Droid/obj/Debug
+*.nupkg
+*.exe
